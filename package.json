@@ -9,6 +9,7 @@
   "license": "Apache-2.0",
   "description": "",
   "devDependencies": {
-    "typescript": "^5.7.2"
+    "typescript": "^5.7.2",
+    "unbuild": "^2.0.0"
   }
 }
