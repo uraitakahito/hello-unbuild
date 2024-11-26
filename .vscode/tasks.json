@@ -13,13 +13,5 @@
         "isDefault": true
       }
     },
-    {
-      "label": "tsup",
-      "type": "shell",
-      "command": "tsup",
-      "group": {
-        "kind": "build",
-      }
-    }
   ]
 }
